@@ -1,0 +1,14 @@
+p{
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    width: 100vh;
+    height: auto;
+
+}
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+}
